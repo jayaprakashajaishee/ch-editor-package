@@ -1,0 +1,28 @@
+{
+  "name": "ch-editor-package",
+  "version": "1.0.0",
+  "description": "coding habits reusable editor component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaprakashajaishee/ch-editor-package.git"
+  },
+  "author": "ajaygopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaprakashajaishee/ch-editor-package/issues"
+  },
+  "homepage": "https://github.com/jayaprakashajaishee/ch-editor-package#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-split": "^2.0.14",
+    "framer-motion": "^6.3.3",
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@monaco-editor/react": "^4.4.4"
+  }
+}
